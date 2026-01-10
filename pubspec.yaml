@@ -1,6 +1,6 @@
 name: growdeck_playtime_plugin
 description: "Growdeck Flutter Plugin"
-version: 1.0.0
+version: 1.0.1
 homepage: "https://growdeck.io"
 
 environment:
